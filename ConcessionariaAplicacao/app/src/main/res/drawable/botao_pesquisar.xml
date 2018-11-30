@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/pesquisar"></solid>
+            <stroke android:width="@dimen/width_padrao_stroke_botao_customizado"
+                android:color="@color/colorPrimaryDark"></stroke>
+            <corners android:radius="@dimen/radius_padrao_botao_customizado"></corners>
+            <padding android:left="@dimen/padding_padrao_botao_customizado"
+                android:top="@dimen/padding_padrao_botao_customizado"
+                android:right="@dimen/padding_padrao_botao_customizado"
+                android:bottom="@dimen/padding_padrao_botao_customizado"></padding>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient android:startColor="@color/pesquisar"
+                android:endColor="@color/colorPrimaryDark"
+                android:angle="270"></gradient>
+            <stroke android:width="@dimen/width_padrao_stroke_botao_customizado"
+                android:color="@color/colorPrimaryDark"></stroke>
+            <corners android:radius="@dimen/radius_padrao_botao_customizado"></corners>
+            <padding android:left="@dimen/padding_padrao_botao_customizado"
+                android:top="@dimen/padding_padrao_botao_customizado"
+                android:right="@dimen/padding_padrao_botao_customizado"
+                android:bottom="@dimen/padding_padrao_botao_customizado"></padding>
+        </shape>
+    </item>
+</selector>

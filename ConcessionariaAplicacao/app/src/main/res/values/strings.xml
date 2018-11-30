@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Concessionaria Excelsior</string>
+    <string name="title_home">Cars</string>
+    <string name="title_dashboard">New Car</string>
+    <string name="title_notifications">About</string>
+
+    <!-- Strings do Login e Cadastro !-->
+    <string name="hint_login">User</string>
+    <string name="hint_senha">Password</string>
+    <string name="btn_login">Log-in</string>
+    <string name="btn_cadastrar">Sing-up</string>
+    <string name="btn_cadastro">Register</string>
+    <string name="btn_voltar">Back</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_confirma">Confirm Password</string>
+    <string name="todo">TODO</string>
+
+    <!-- Strings do Manifests !-->
+    <string name="login_usuario">Login</string>
+    <string name="lista_carros">Car List</string>
+    <string name="cadastro_usuario">Register User</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="buscar_marca">Search Brand</string>
+    <string name="manter">Do you want to stay logged in?</string>
+
+    <!-- Strings da tela de cadastro do carro!-->
+    <string name="input_marca">Car Brand</string>
+    <string name="input_modelo">Car Model</string>
+    <string name="input_ano">Car Year</string>
+    <string name="input_placa">License Plate</string>
+    <string name="input_imagem">Image URL</string>
+    <string name="input_preco">Car Price</string>
+    <string name="input_descricao">Car Description</string>
+    <string name="deletar_carro">Delete Car</string>
+
+    <!-- Strings erro e loading !-->
+    <string name="loading_spinner">Loading...</string>
+
+    <!-- Strings sobre !-->
+    <string name="btn_logout">Log-out</string>
+    <string name="desenvolvedor">Developed by Stiven Oliveira Bezerra</string>
+    <string name="versao">Version App 1.0.0</string>
+
+</resources>

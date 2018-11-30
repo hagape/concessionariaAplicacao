@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="botaoP">#f8f9f7</color>
+    <color name="colorPrimaryDark">#242631</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_splash">#a8a8a8</color>
+    <color name="background_login">#d7d7d7</color>
+    <color name="texto_sobre">#000</color>
+    <color name="logout">#6b0202</color>
+    <color name="pesquisar">#7f8177</color>
+    <color name="deletar">#b10505</color>
+    <color name="fundo">#C0C0C0</color>
+    <color name="fundo2">#575a66</color>
+    <color name="label">#4e0000</color>
+</resources>
